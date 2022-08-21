@@ -2,9 +2,15 @@
 *.zip
 
 # Databases
-*.db
+*.db*
+*.sav
+*.csv
 
 # Directories
 data/
 figures/
 dataframes/
+.ipynb_checkpoints/
+
+# Files
+TOPSY_spreadsheet.ipynb
