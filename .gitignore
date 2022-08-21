@@ -1,0 +1,10 @@
+# Archives
+*.zip
+
+# Databases
+*.db
+
+# Directories
+data/
+figures/
+dataframes/
